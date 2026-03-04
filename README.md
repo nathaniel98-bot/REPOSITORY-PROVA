@@ -8,6 +8,6 @@
 <h2> <i> di qualcuno </i> </h2>
   <h3> the bible </h3>
 <p>My first paragraph.</p>
-
+<img src="bibbia.jpg" alt="Immagine della bibbia">
 </body>
 </html>
