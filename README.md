@@ -12,7 +12,7 @@
   <a href="https://www.vatican.va/archive/ITA0001/_INDEX.HTM"> Visita il sito della bibbia </a>
   <p>Here is a quote from bible website:</p>
 <blockquote cite="https://www.vatican.va/archive/ITA0001/_INDEX.HTM">
-Lui è l'eroe di cui Gotham ha bisogno, ma non quello che merita
+Dio ha tanto amato il mondo da dare il Figlio unigenito, perché chiunque crede in lui non vada perduto, ma abbia la vita eterna
 </blockquote>
 </image>
 </body>
