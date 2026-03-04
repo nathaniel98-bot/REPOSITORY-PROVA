@@ -10,5 +10,6 @@
 <p>My first paragraph.</p>
 <img src="bibbia.jfif" alt="Immagine della bibbia" style="width:200px;height:250px;">
   <img src= "https://www.itl-libri.com/prodotto/bibbia" alt= "foto sito bibbia">
+</image>
 </body>
 </html>
